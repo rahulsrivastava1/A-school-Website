@@ -1,0 +1,44 @@
+.container-fluid{
+    padding-left: 25%;
+    background-color:blue;
+    font-family:Roboto;
+    font-size:large;
+    padding-top: 10px;
+}
+#s{
+        border-radius: 5px;
+        display: block;
+        padding: 8px 12px;
+}
+.nav-area {
+    padding-top: 20px;
+    padding-left:100px;
+    background: #239dd0;
+}
+.row{
+    font-size: larger;
+}
+#shr{
+    font-size:small;
+}
+.shre{
+    font-size:x-small;
+}
+.span {
+    display: block;
+    clear: both;
+    color: #97251b;
+}
+.container{
+    background-color:whitesmoke;
+    font-family:Arial;
+    font-size:large;
+    padding-top:10px;
+    padding-left:25px;
+}
+.r{
+    font-size:small;
+}
+.ra{
+    font-size:small;
+}
