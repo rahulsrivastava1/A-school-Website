@@ -1,2 +1,2 @@
-# rahulsrivastava-calculator
-A simple calculator using javascript
+# rahulsrivastava-school website
+A school website using bootstrap
